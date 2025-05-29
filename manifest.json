@@ -1,0 +1,15 @@
+{
+  "name": "متجر بيع الحسابات",
+  "short_name": "المتجر",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#1e88e5",
+  "icons": [
+    {
+      "src": "images/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
